@@ -1,0 +1,23 @@
+$primary: #57068c;
+$secondary: #6f42c1;
+$success: #799a05;
+$info: #008996;
+$warning: #ecaa00;
+$danger: #c50f3c;
+$dark: #1f2739;
+$light: #fff;
+
+$blue:    #007bff !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$violet:  #57068c !default;
+$pink:    #e83e8c !default;
+$red:     #c50f3c !default;
+$orange:  #e97300 !default;
+$yellow:  #ecaa00 !default;
+$green:   #28a745 !default;
+$teal:    #008996 !default;
+$cyan:    #17a2b8 !default;
+
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+@import '../../../scss/common-utils';

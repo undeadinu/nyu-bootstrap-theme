@@ -1,3 +1,9 @@
+# Bootstrap 4 - NYU Theme
+
+This is a fork from the *Bootstrap Theme Machine* project.
+We added a Bootstrap 4 theme configured with colors from the NYU official style guide.
+You can get the compiled CSS files from https://github.com/ViDA-NYU/nyu-bootstrap-theme/tree/master/dist/nyu.
+
 # Bootstrap Theme Machine
 
 ## A collection of stylized Bootstrap Themes by HackerThemes
